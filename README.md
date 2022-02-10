@@ -1,5 +1,5 @@
 
-가계부
+#가계부
 
 ##기본화면
 <img src = "https://user-images.githubusercontent.com/69678386/153363593-075fa5d7-34fa-4189-ab70-5e9a1ea84264.png" width="30%" height="30%">
