@@ -1,16 +1,14 @@
-# budget
 
-A new Flutter application.
+가계부
 
-## Getting Started
+기본화면
+![image](https://user-images.githubusercontent.com/69678386/153363593-075fa5d7-34fa-4189-ab70-5e9a1ea84264.png)
 
-This project is a starting point for a Flutter application.
+Floating Action Button 클릭시 Dialog
+![image](https://user-images.githubusercontent.com/69678386/153363651-163e9cfe-164a-49c7-9c17-86c6d13928d9.png)
 
-A few resources to get you started if this is your first Flutter project:
+지출(수입)입력 화면
+![image](https://user-images.githubusercontent.com/69678386/153363693-87a8272e-9c86-42a1-ba55-1d56fe43ed28.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+내역이 있는 날짜 선택시 
+![image](https://user-images.githubusercontent.com/69678386/153363914-6e60d933-5642-4cef-a25c-fe7a99f723e7.png)
